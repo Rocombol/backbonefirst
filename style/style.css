@@ -1,0 +1,63 @@
+﻿#main{ 
+
+    border-radius: 2px;
+    width:100%; 
+    padding:5px;
+    font-size: 20px;
+    margin: 10px;
+    } 
+    
+table {
+    border-collapse:separate;
+}
+
+td,
+th {
+    border: 1px solid #ccc;
+    text-align: center;
+    width: 150px;
+    margin-left: 15px;
+}
+
+tr{
+    background-color: #eeffee;
+}
+
+.showInfo{
+    background-color: #AEA2A3;
+    height: 100%;
+    padding: 10px;
+    width: 95px;
+    border-radius: 10px;
+    color: black;
+}
+
+.editInfo{
+    background-color: #9999FF;
+    height: 100%;
+    padding: 10px;
+    width: 95px;
+    border-radius: 10px;
+    color: black;
+}
+
+
+#content {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#extraInfo {
+    width: 100px;
+    height: 400px;
+    margin-left: 10px;
+    display: inline-block;
+    vertical-align: top;    
+}
+
+.addInfo h2 {
+    color:black;
+}
+li{
+    list-style-type: none;
+}
